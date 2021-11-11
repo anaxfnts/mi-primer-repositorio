@@ -13,6 +13,12 @@
 ## **Flujo de trabajo de GIT.**
 Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com/) tenemos que seguir los siguientes pasos:
 
-```git add fichero ```
-```git commit -m "Comentario sobre el commit"```
-```git push```
+```
+git add fichero
+```
+```
+git commit -m "Comentario sobre el commit"
+```
+```
+git push
+```
